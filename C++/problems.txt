@@ -1,0 +1,16 @@
+problem 1-----------------------------------------------------------------------------
+    Spanish:
+    Suponga que hay 4 grupos y 20 estudiantes por grupo.
+        1. crear una matriz con datos aleatorios de las notas de los estudiantes
+        2. implementar un menu que permita conocer el promedio de cada grupo, 
+                la mayor nota de cada grupo, la menor nota de cada grupo, 
+                la cantidad de estudiantes que aprobaron y reprobaron en cada grupo
+                (3 es la nota minima de aprobación).
+    English:
+    Suppose there are 4 groups and 20 students per group.
+        1. create a matrix with random data of the students' grades.
+        2. implement a menu that allows to know the average of each group, 
+                the highest grade of each group, the lowest grade of each group, 
+                the number of students who passed and failed in each group.
+                (3 is the minimum passing grade).
+problem 2------------------------------------------------------------------------------
